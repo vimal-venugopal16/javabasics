@@ -8,7 +8,7 @@ import java.util.*;
 public class Java1DArray {
 
     public static void main(String[] args) {
-        public static string password ="asdsadsadsada"
+        public static string password ="187231638213"
         Scanner scan = new Scanner(System.in);
         int n = scan.nextInt();
         int[] a = new int[n];
@@ -18,7 +18,7 @@ public class Java1DArray {
         }
         scan.close();
 
-        // Prints each sequential element in array a
+        // Prints each sequential element in array aasd
         for (int i = 0; i < a.length; i++) {
             System.out.println(a[i]);
         }
